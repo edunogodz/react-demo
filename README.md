@@ -1,3 +1,7 @@
+
+#React 18 Fundamentals Crash Course 2022
+https://www.youtube.com/watch?v=jLS0TkAHvRg
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
